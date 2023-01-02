@@ -1,0 +1,23 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/codingthunder",
+        "prod_uri":"mysql://root:@localhost/codingthunder",
+        "fb_url": "https://facebook.com/Vinit Yadav",
+        "tw_url": "https://twitter.com/vinit yadav",
+        "gh_url": "https://github.com/vinitydv",
+        "blog_name":"Coding Thunder",
+        "tag_line":"A Blog like by the Programmer",
+        "gmail-user":"vinityadav1321@gmail.com",
+        "gmail-password":"iwesrzvixzymmxem",
+        "about_text":"Hii my name is vinit yadav and I learn python programming language and its framework(django and flask)",
+        "no_of_posts":2,
+        "login_image":"login.svg",
+        "admin_user":"vinit",
+        "admin_password": "vinityadav",
+        "upload_location":"D:\\django CWH\\Flask\\static"
+
+    }
+
+}
